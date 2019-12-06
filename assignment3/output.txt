@@ -1,0 +1,42 @@
+Executing File : ecos_x86.dimacs
+Dead Features:
+====================================================
+Dead feature: #1224, Name: FS_JFFS2_NAND
+Dead feature: #1027, Name: NET_DRIVER_ETH1_ADDRS
+Dead feature: #1025, Name: KERNEL_SYNCH_MUTEX_PRIORITY_INVERSION_PROTOCOL
+Dead feature: #618, Name: NET_DRIVER_ETH1_DHCP
+Dead feature: #1053, Name: KERNEL_SYNCH_MUTEX_PRIORITY_INVERSION_PROTOCOL_DYNAMIC
+Dead feature: #620, Name: NET_DRIVER_ETH1_ADDRS_IP
+Dead feature: #888, Name: HAL_GDB_FILEIO
+Dead feature: #420, Name: BUILD_REDBOOT_BIN
+Dead feature: #213, Name: COMPRESS_ZLIB_NEEDS_MALLOC
+Dead feature: #217, Name: NET_DRIVER_ETH1_MANUAL
+Dead feature: #234, Name: NET_DRIVER_ETH1_ADDRS_GATEWAY
+Dead feature: #916, Name: NET_DRIVER_ETH1_SETUP_OPTIONS
+Dead feature: #923, Name: KERNEL_SYNCH_MUTEX_PRIORITY_INVERSION_PROTOCOL_NONE
+Dead feature: #1114, Name: HAL_I386_PC_STARTUP_VIDEO_MODE
+Dead feature: #959, Name: NET_DRIVER_ETH1_SETUP
+Dead feature: #1151, Name: REDBOOT_HAL_OPTIONS
+Dead feature: #1148, Name: HAL_DEBUG_GDB_CTRLC_SUPPORT
+Dead feature: #506, Name: NET_DRIVER_ETH1_BOOTP_SHOW
+Dead feature: #752, Name: NET_DRIVER_ETH1_BOOTP
+Dead feature: #753, Name: REDBOOT_I386_TRAMPOLINE_ADDRESS
+Dead feature: #995, Name: REDBOOT_I386_LINUX_EXEC
+Dead feature: #768, Name: KERNEL_SYNCH_MUTEX_PRIORITY_INVERSION_PROTOCOL_INHERIT
+Dead feature: #778, Name: _POSIX_THREAD_PRIO_PROTECT
+Dead feature: #562, Name: KERNEL_SYNCH_MUTEX_PRIORITY_INVERSION_PROTOCOL_CEILING
+Dead feature: #577, Name: KERNEL_SYNCH_MUTEX_PRIORITY_INVERSION_PROTOCOL_DEFAULT_PRIORITY
+Dead feature: #108, Name: KERNEL_SYNCH_MUTEX_PRIORITY_INVERSION_PROTOCOL_DEFAULT
+Dead feature: #112, Name: IO_ETH_DRIVERS_WARN
+Dead feature: #354, Name: NET_DRIVER_ETH1_ADDRS_SERVER
+Dead feature: #119, Name: IO_ETH_DRIVERS_LWIP
+Dead feature: #14, Name: BUILD_REDBOOT_BIN_ROM
+Dead feature: #360, Name: NET_DRIVER_ETH1_ADDRS_BROADCAST
+Dead feature: #129, Name: BUILD_REDBOOT_BIN_FLOPPY
+Dead feature: #371, Name: _POSIX_THREAD_PRIO_INHERIT
+Dead feature: #137, Name: KERNEL_SYNCH_MUTEX_PRIORITY_INVERSION_PROTOCOL_COUNT
+Dead feature: #39, Name: NET_DRIVER_ETH1_ADDRS_NETMASK
+Dead feature: #143, Name: NET_DRIVER_ETH1_IPV6_PREFIX
+Dead feature: #95, Name: HAL_I386_PCMB_GPROF_SUPPORT
+====================================================
+Number of implications: 93410
